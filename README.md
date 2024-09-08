@@ -4,7 +4,7 @@
 This project involves analyzing and visualizing sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
 
 ## Dataset
-The dataset consists of social media posts with text and metadata (e.g., user, timestamp, etc.). For the purposes of this project, a CSV file (`twitter_training.csv`) is used. Ensure the dataset is in the correct format before running the code.
+The dataset a CSV file (`twitter_training.csv` and `twitter_validation.csv`) is used. Ensure the dataset is in the correct format before running the code.
 
 ## Project Workflow
 
